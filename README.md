@@ -14,7 +14,7 @@
 
 ###
 
-<a href="https://github.com/ArchiSoft-it/MakiClient">Maki Client</a> - An Android client for Lemmy 
+<a href="https://github.com/ArchiSoft-it/MakiClient">Maki Client</a> - The Ultimate 100% native Lemmy client for Android 
 
 ###
 
