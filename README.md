@@ -22,6 +22,11 @@
 
 ###
 
+<h2 align="left">🇺🇳 Languages I speak</h2>
+
+
+###
+
 <h2 align="left">ℹ️ About me</h2>
 
 ###
