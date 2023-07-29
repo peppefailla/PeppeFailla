@@ -23,7 +23,7 @@
 ###
 
 <h2 align="left">🇺🇳 Languages I speak</h2>
-- 🇮🇹 Italian (first language)
+- 🇮🇹 Italian (first language) <br>
 - 🇬🇧/🇺🇸 English (C1 Cambridge English Advanced certification)
 
 ###
