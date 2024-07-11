@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left"> I'm a Computer Science Student who's really passionate about Free and Open Source (FOSS) Software and digital freedom</h4>
+<h4 align="left"> I'm a Computer Science Student</h4>
 
 ###
 
@@ -14,11 +14,7 @@
 
 ###
 
-<a href="https://github.com/ArchiSoft-it/MakiClient">Maki Client</a> - The Ultimate 100% native Lemmy client for Android 
-
-###
-
-<a href="LINK-LORY">Friday</a> - A personal assistant powered by artificial intelligence for managing home automation and computers, with the community able to develop plugins to extend its functions.
+<a href="https://github.com/ArchiSoft-it/MakiClient">JoinMessages</a> - A simple and customizable join messages Plugin for Spigot (1.20.6)
 
 ###
 
