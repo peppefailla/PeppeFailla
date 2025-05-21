@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">🌐 Founder of http://archisoft.it/<br> 🇮🇹 Italy <br>📚 Computer Science Student <br>💻 Developer Java/Kotlin<br>🐧/🍎/🪟/😈 OS-Agnostic</p>
+ 🇮🇹 Italy <br>📚 Computer Science Student <br>💻 Developer Java/Kotlin<br>🐧/🍎/🪟/😈 Any OS</p>
 
 ###
 
@@ -42,7 +42,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://images.seeklogo.com/logo-png/45/1/c-language-logo-png_seeklogo-458623.png" height="40" alt="clogo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  
 </div>
 
 ###
